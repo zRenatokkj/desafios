@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: 'Press Start 2P', cursive; /* Fonte de videogame */
+    background-image: url('Mario.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.9; /* Define a transparência (50%) */
+   /*  background: linear-gradient(45deg, #FF0000, #000000); */
+}
+
+
+
+.container {
+    display: flex;
+}
+
+.sidebar {
+    width: 20%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo semi-transparente para os anúncios */
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    color: #fff;
+}
+
+.game-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+/* Estilos para as caixas dos jogos (adicione aqui) */

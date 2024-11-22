@@ -1,0 +1,130 @@
+body {
+    background: linear-gradient(120deg, #69fff3 25%, #3fff69 100%);
+}
+
+.header{
+    padding: 20px;
+}
+
+.links{
+    display: inline;
+    margin-left: 480px;
+}
+
+.botoes{
+    display: inline;
+    margin-left: 480px;
+}
+
+.links a{
+    margin-left: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    padding: 3px;
+}
+
+.links a:hover {
+    color: #05e623;
+    border-top: 2px solid #05e623;
+    border-bottom: 2px solid #05e623;
+}
+
+.link-a-1 {
+    background-color: #09bb18;
+    border: #05e649 solid 2px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.link-a-2 {
+    background-color: transparent;
+    border: #05e649 solid 2px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+
+.span-1, .span-2{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.span-1 {
+    color: #0e8503;
+}
+
+.span-2 {
+    color: #18e605;
+}
+
+.secao-1{
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.secao-2{
+    width: 500px;
+    margin-top:50px ;
+    margin-bottom: 100px;
+}
+
+.secao-3{
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.secao-4{
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.secao-1 h1{
+    font-weight: bold;
+}
+
+.secao-1 h2 {
+    font-weight: lighter;
+    color: #05e623;
+}
+
+img{
+    width: 400px;
+    margin: 0 auto;
+}
+.img img{
+    width: 70%;
+    border-radius: 100%;
+}
+
+.img-col{
+    width: 20%;
+    border-radius: 100%;
+}
+
+h2{
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    padding: 15px;
+}
+
+.campobox{
+    width: 33%;
+}
+
+.tabela{
+    padding: 20px;
+}
+
+button{
+    padding: 20px;
+    margin-left: 40px;
+}
