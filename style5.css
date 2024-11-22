@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(120deg, #69fff3 25%, #3fff69 100%);
+    background: #ff7d59;
 }
 
 .header{
@@ -25,14 +25,14 @@ body {
 }
 
 .links a:hover {
-    color: #05e623;
-    border-top: 2px solid #05e623;
-    border-bottom: 2px solid #05e623;
+    color: #d44637;
+    border-top: 2px solid #c71c0a;
+    border-bottom: 2px solid #c71c0a;
 }
 
 .link-a-1 {
-    background-color: #09bb18;
-    border: #05e649 solid 2px;
+    background-color: #d44637;
+    border: #c71c0a solid 2px;
     color: white;
     font-weight: bold;
     padding: 10px;
@@ -40,7 +40,7 @@ body {
 
 .link-a-2 {
     background-color: transparent;
-    border: #05e649 solid 2px;
+    border: #c71c0a solid 2px;
     font-weight: bold;
     padding: 5px;
 }
@@ -52,11 +52,11 @@ body {
 }
 
 .span-1 {
-    color: #0e8503;
+    color: #c71c0a;
 }
 
 .span-2 {
-    color: #18e605;
+    color: #d44637;
 }
 
 .secao-1{
@@ -90,7 +90,7 @@ body {
 
 .secao-1 h2 {
     font-weight: lighter;
-    color: #05e623;
+    color: #c71c0a;
 }
 
 img{
