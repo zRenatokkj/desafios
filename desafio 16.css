@@ -1,7 +1,7 @@
 body{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(120deg, #69fff3 25%, #3fff69 100%);
+    background: #ff7d59 ;
     display:flex;
     justify-content:center;
     align-items:center;
